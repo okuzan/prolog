@@ -1,0 +1,2 @@
+# prolog
+KMA Prolog course
